@@ -8,7 +8,13 @@ Using pandas we can load data from CSV/TSV files. It converts the data into a Py
 
 To train a ML model, we need to convert the pandas data frame object into arrays (NumPy array): data matrix and one-dimensional target array. But before we do that, we need to do some data processing and exploration.
 
-In this notebook, we load a small dataset stored in a CSV file as a pandas data frame object. Then, we perform basic data exploration.
+      
+       -- Following notebooks show the basic steps of Pandas, NumPy, and Matplotlib based data processing and exploration.
+
+
+## Notebook 1
+
+We load a small dataset stored in a CSV file as a pandas data frame object. Then, we perform basic data exploration.
 
 - Check NaN values
 - Check	categorical features
@@ -21,3 +27,14 @@ In this notebook, we load a small dataset stored in a CSV file as a pandas data 
 
 See the following link to learn about pandas' methods:
 https://pandas.pydata.org/
+
+
+## Notebook 2
+
+# Pandas - Group Data and Create Bar Plot
+
+We create a Pandas data frame object, then perform the following tasks.
+- Group data based on a numeric attribute
+- Apply various functions on the samples of each group for the attributes, e.g., count, sum, mean
+- Create bar plots to show aggregate values for each group
+
