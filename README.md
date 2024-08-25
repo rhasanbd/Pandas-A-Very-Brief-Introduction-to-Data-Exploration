@@ -1,4 +1,4 @@
-# Pandas - Very Brief Introduction for Data Exploration
+# Pandas - A Very Brief Introduction to Data Exploration
 
 In a machine learning (ML) project, we often get data from CSV/TSV files. Pandas is a convenient tool to load data, process & analyze it before using the data for training an ML model.
 
